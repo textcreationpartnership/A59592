@@ -1,0 +1,363 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Certaine plaine and easie demonstrations of divers easie wayes and meanes for the improving of any manner of barren land ... published for the increasing of the wealth and prosperitie of the nation, and the benefit of the poore, and all of those as are owners of any barren land.</title>
+            <author>Sha., J., 17th cent.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1657</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 43 KB of XML-encoded text transcribed from 13 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A59592</idno>
+            <idno type="STC">Wing S3021</idno>
+            <idno type="STC">ESTC R17832</idno>
+            <idno type="EEBO-CITATION">12256467</idno>
+            <idno type="OCLC">ocm 12256467</idno>
+            <idno type="VID">57558</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A59592)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 57558)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 877:39)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Certaine plaine and easie demonstrations of divers easie wayes and meanes for the improving of any manner of barren land ... published for the increasing of the wealth and prosperitie of the nation, and the benefit of the poore, and all of those as are owners of any barren land.</title>
+                  <author>Sha., J., 17th cent.</author>
+               </titleStmt>
+               <extent>[2], 7, [9], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by T.F. :</publisher>
+                  <publisher>and are to be sold by William Ley, at his shop ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1657.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in Huntington Library.</note>
+                  <note>"To the reader" signed: J. Sha:</note>
+                  <note>Include two anonymous tracts, having caption titles, "How to order any land, so as it may reteyne all the moysture that falleth thereon, and to improve it thereby" and "An easie and profitable order in tilling of ground to improve it, and make it fertile."</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Agriculture --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-05</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-05</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-07</date>
+            <label>Judith Siefring</label>Sampled and proofread</change>
+         <change>
+            <date>2011-07</date>
+            <label>Judith Siefring</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:57558:1"/>
+            <pb facs="tcp:57558:1"/>
+            <p>Certaine plaine and eaſie DEMONSTRATIONS Of divers Eaſie wayes and meanes for the Improving of any manner of barren Land, although the ſame bee not worth xij.d. the Acre. And ſhewing how to make the ſame become worth XX.s. XXX.s. or XL.s. the Acre yearely. <hi>Publiſhed for the Increaſing of the Wealth</hi> and Proſperitie of the Nation, and the be<g ref="char:EOLhyphen"/>nefit of the Poore, and of all thoſe as are Owners of any barren Land.</p>
+            <p>LONDON, Printed by <hi>T. F.</hi> and are to be ſold by <hi>William Ley,</hi> at his Shop at <hi>Pauls</hi> Chaine neare <hi>Pauls</hi> Church<g ref="char:EOLhyphen"/>yard, 1657.</p>
+         </div>
+         <div type="to_the_reader">
+            <pb facs="tcp:57558:2"/>
+            <pb n="1" facs="tcp:57558:2"/>
+            <head>Briefe Demonſtrations of Certaine, Plaine and Eaſie wayes, and meanes for the Improving of any manner of Barren-Land, although not worth xij.d. the Acre, and ſhewing how to make the ſame become worth xx.s. xxx.s. or xl.s. the Acre yearely.</head>
+            <head type="sub">
+               <hi>Publiſhed for the benefit of the Nation, and for the</hi> Increaſing of the wealth and Proſperity of all Nations, that ſhall in time Practice the ſame.</head>
+            <byline>
+               <hi>By</hi> J. S. One that it defirous of the Publicke good.</byline>
+            <head>TO THE READER.</head>
+            <p>GEntle Reader, having many things to make publick for the good of the Nation, I ſhall onely at the preſent briefly De<g ref="char:EOLhyphen"/>monſtrate ſome few things that may make much for the Publicke good and the Proſperity thereof; In this ſmall and enſuing Trea<g ref="char:EOLhyphen"/>tiſe, it is intended for the good of the Poore aſwell as of the rich; and therefore, I ſhall in briefe publiſh no more at one time then what the poore man may be able to purchaſe and attaine to, aſwell as the rich, and ſo ſhall proceed in the ſucceeding times; Every one is bound in duty to imploy and improve thoſe Talents that God hath endowed them with to his glory and the publick good, and I hope no man can be offended thereat: if any ſuch there bee, they ought to know their Errour is great, and their judgement will be great at the great judgement day of the Lord: I ſhall Conclude only deſiring the Lord to bleſſe and proſper all honeſt and lawfull Endeavours, and reſt alwayes deſirous of the Publick good,</p>
+            <closer>
+               <signed>J: SHA:</signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="part">
+            <div n="1" type="chapter">
+               <pb n="2" facs="tcp:57558:3"/>
+               <head>
+                  <hi>CHAP. I.</hi> Concerning the uſe of the Manuring. Rowler.</head>
+               <p>OF all Inventions for the eaſie and ſpeedy Manuring of all ſorts of Ground, there is none better or more uſefull then the <hi>Manuring Rowler,</hi> being rightly and ſeaſonably uſed: The beſt ſeaſon for uſing thereof is in the <hi>Autumne</hi> and <hi>Winter,</hi> when the ground is wet and not dry or hard frozen: Alſo, when the Snow beginneth to melt and the froſt to thaw, the manner how to uſe it, is to fill it with Dung and other ſoyle, or with good and fertile Earth, and then to draw it up and down in your field from one end to the other, untill all the manure be vented out of the ſame, and then againe to fill it, and uſe it after the ſame manner, untill you have uſed and ſpent all your dung, hereby one load of Dung will do more good and improve your Land more then 3, or 4. Load laid on the ground, and ſpread after the accuſtomed manner: Alſo, ground that is not worth xij.d. the Acre, may in few yeares be made to become worth xx.s. or xxx.s. the Acre.</p>
+               <p>Theſe manuring <hi>Rowlers</hi> may be made of what bigneſs you pleaſe; for they may be made no bigger then for a man to drive or thruſt afore him, and alſo they may bee made ſo bigge as they may require one or two Horſes to draw the ſame.</p>
+               <p>Now if the later end of the <hi>Autumne</hi> or <hi>Winter</hi> ſeaſon prove dry, and the ground be too dry to Manure and improve the ſame then you may moyſten and water the ſame, as is declared in the <hi>Chapter, Shewing how to water Ground in dry ſeaſons where water is plentifull:</hi> And in moiſtening, or watering the ſame, be ſure to moiſten and water no more then you ſhall at that preſent manure well with your manuring <hi>Rowler,</hi> and water that well, and throughly that you would Manure.</p>
+               <p>Alſo, if you would Improve any barren Land ſpeedily then you muſt bring in the beſt mould you can get, and ſpread the
+<pb n="3" facs="tcp:57558:3"/>ſame all over ſo much of your barren Land as you deſire to Im<g ref="char:EOLhyphen"/>prove, and after you have ſpread the ſame, then to fill your ma<g ref="char:EOLhyphen"/>nuring <hi>Rowlers</hi> with Dung or other good ſoyle, and manure the ſame when the ground is Wet as is before preſcribed.</p>
+               <p>Alſo, it is very expedient to Plow up your barren ground, if you have not plenty of good Earth to lay upon it and to ma<g ref="char:EOLhyphen"/>nure it withall, and aſſoone as it is Plowed up, then to manure it with your manuring <hi>Rowler;</hi> And what you Plow up one day, you ſhould Manure the day following.</p>
+            </div>
+            <div n="2" type="chapter">
+               <head>
+                  <hi>CHAP. II.</hi> How to improve Barren Land not worth yearely <hi>xij.d.</hi> the Acre, and io make it become worth yearely <hi>xx.s.</hi> or <hi>xxx.s.</hi> the Acre.</head>
+               <p>ONe of the beſt and ſureſt wayes to Improve any manner of barren Land both ſpeedily and effectually is by ma<g ref="char:EOLhyphen"/>king long Furrowes, or Trenches, eyther with the Plow or Spade 12. or 18. Inches deepe, and 12. or 18. Inches wide: theſe furrows and trenches ſhould be made along fro<g ref="char:cmbAbbrStroke">̄</g> the South to the North, &amp; diſtant ſome 14, 15, or 16. foot each furrow or trench from the other: theſe furrowes being thus made ſhould be filled up with the beſt, and richeſt Earth or ſoyle that may be got neare to the ſaid barren land; and after they are thus filled, then at the ſeaſon of the yeare for Planting, then to plant Quickſets, and all other ſmall Plants of divers kinds all along in the ſaid Trenches and furrowes; or otherwiſe to ſet or ſow Acornes, Nuts, Hawes, and the ſeeds of other Trees in the ſaid Trenches and furrowes that it may grow up to a Hedge-row or hedge, and ſo to preſerve them and let them grow.</p>
+               <p>Now in the Spaces between the ſaid furrowes you may prac<g ref="char:EOLhyphen"/>tiſe ſeverall points of Husbandry in manner following; as in one or 2, or 3. of the ſaid Spaces between the ſaid trenches or furrowes, if you would have Medow ground or Paſture; then when the ground is wet eyther with Raine or with Snow,
+<pb n="4" facs="tcp:57558:4"/>you muſt manure the ſame with the manuring <hi>Barrow,</hi> or ma<g ref="char:EOLhyphen"/>nuring <hi>Rowler,</hi> they being filled with the richeſt or fatteſt Earth you can get untill the ſaid Spaces become all mire and dirt; and after that bring the beſt greene Turffe you can get in Lanes, or along by Hedge-ſides, from whence the fame may be beſt ſpared into your ſaid Barren ground, and ſpread the ſame all over the ſaid ſpaces between the trenches covering the ſaid barren ground therewith, that you would have to be good Me<g ref="char:EOLhyphen"/>dow or Paſture ground; and after that fill your manuring <hi>Row<g ref="char:EOLhyphen"/>ler</hi> with good mellow Dung and manure the ſaid ſpaces there<g ref="char:EOLhyphen"/>with; In the <hi>Winter</hi> ſeaſons and a little before the <hi>Spring,</hi> and ſo every Winter ſeaſon when the ſaid ground is moyſt, and it will become good Medow or Paſture ground worth xx.s. or xxx.s. the Acre or more, and continue ſo for ever.</p>
+               <p>Alſo, you ſhould have a great care that no Cattle that will Crop come into the ſaid ground before your Quickſets and Hedge-rowes be growne out of danger; and therefore you muſt preſerve the graſſe for Hay, and in the <hi>Autumne,</hi> and <hi>Winter</hi> you may put in your Lambes, Calves, and Colts, and any other cat<g ref="char:EOLhyphen"/>tle that will not Crop, and it will breed them up very well and yeeld you profit enough.</p>
+               <p>Now in the other Spaces you may uſe &amp; practiſe other points or kinds of Husbandry at your pleaſure, that are or hereafter ſhall be publiſhed; for in ſome of them you may ſet and ſow Beanes, and Peaſe after the ſame manner as is declared in the following <hi>Chapters.</hi> And in the other Spaces you may plant and ſet young Trees; In other ſpaces you may ſow Roots, as Turneps, Carrets and ſuch like, having manured, prepared and fitted the ſaid ground and ſpaces for the ſaid purpoſes.</p>
+               <p>And in other of the ſaid Lands and ſpaces having moveable Folds made for the purpoſe to fold your Cattle in, you may fodder any Cattle you have in the ſaid Lands, and improve it very much, and alſo improve your Cattle, by defending them from wind and weather in Cold ſeaſons.</p>
+               <pb n="5" facs="tcp:57558:4"/>
+               <p>Theſe moveable Folds are to be made of the lighteſt wood and boards as is to bee obtained, as of Elme, Maple, Sallow, Willow and ſuch like; alſo, thoſe that ſhall deſire to ſee the ſame, or onely the Modell of them, or to have them made, if they ſhall refort to ſuch places, whereto they ſhall be directed in this Booke; they may there ſee the ſame or bee furniſhed with them if they pleaſe.</p>
+            </div>
+            <div n="3" type="chapter">
+               <head>
+                  <hi>CHAP. III.</hi> How to Improve any Barren Land not worth <hi>xij.d.</hi> the Acre.</head>
+               <p>ANother way to Improve any manner of barren Land both eaſily and ſpeedily; Is firſt to make long Furrowes from the South to the North and fill them up with good rich and fertile Earth, as is declared in the former <hi>Chapter,</hi> and then to ſet Beanes or Peaſe in their ſeaſon all along in the ſaid fur<g ref="char:EOLhyphen"/>rowes; and then all along in the Space betweene the ſaid fur<g ref="char:EOLhyphen"/>rowes to make Holes eyther with a good round Stake or crow of Jron about 10, or 12. Inches deepe, the wider the holes are the better; then fill up the ſaid holes with the beſt Earth or mixed mould as is before declared for the Furrowes; and ſet Beanes or Peaſe in the ſaid Holes.</p>
+               <p>Now after you have gathered your Beanes and Peaſe, you may let the Stalks and hames remaine and rot upon the ground, and then in the next wet Seaſons enſuing, manure the ſaid ground with the manuring <hi>Rowlers</hi> filled with Dung, or o<g ref="char:EOLhyphen"/>ther good Earth, or fertile mould, that may moſt eaſily bee had.</p>
+               <p>If your Barren ground be ſomewhat dry that you would ma<g ref="char:EOLhyphen"/>nure, then it will be worth your labour to naile or faſten all the courſe old Linnen or woollen Rags doubled or twiſted to<g ref="char:EOLhyphen"/>gether you have or can have, round about on the out-ſide of
+<pb n="6" facs="tcp:57558:5"/>your manuring <hi>Rowlers,</hi> and then powre water upon them when you manure your ground therewith, and alſo you muſt moyſten eyther the Dung or the fertile Earth very much with water, when that you put it into the manuring <hi>Rowler</hi> to manure your Land therwith; and ſo when the Rags ſhall grow any thing dry to wet them well againe with water, by powring it upon them.</p>
+               <p>Alſo, it will be worth labour and very good to Manure your ground early in the Morning when the ground is very full of Dew, with the manuring Rowler.</p>
+               <p>The ſeverall Benefits that will ariſe to all in the Nation will be many through the exerciſe of theſe points of Husbandry ſome whereof I will name; As firſt, all or moſt of the Poore in the Nation may be ſet on worke in one kind or other tho<g ref="char:EOLhyphen"/>row-out the Nation, to the great profit of the Owners of the barren Lands in the Nation; ſome being imployed in making Trenches, Pits and holes, others in filling them up with earth, and others in Planting, Sowing, and ſetting Plants, or Seeds, or other things as is preſcribed.</p>
+               <p>Secondly, The maintenance of the Miniſters and Gentry will be amended and increaſed.</p>
+               <p>Thirdly, The Marchants, Tradeſmen, and Handicrafts-men, will gaine hereby; for all Trading will be increaſed.</p>
+               <p>Fourthly, the Cuſtomes, and other revenues due to the State will be increaſed.</p>
+            </div>
+            <div n="4" type="chapter">
+               <head>
+                  <hi>CHAP. IV.</hi> Another way whereby Barren-fields may be improved.</head>
+               <p>FIrſt, you may plow Furrowes from one end or ſide of your Field unto the other, and fill up the ſame with good fer<g ref="char:EOLhyphen"/>tile mould of Earth, if you deſire to improve your Land by ſowing or ſetting Beanes, Peaſe or any other kind of graine in Furrowes, and not by planting of Wood.</p>
+               <p>Alſo, you may Plow the ſaid fields very well and ſo Har<g ref="char:EOLhyphen"/>row them, and then manure them with the manuring <hi>Rowler,</hi>
+                  <pb n="7" facs="tcp:57558:5"/>and after plant and ſet Corne in the ſame; making holes with a Setting-ſtick made for that purpoſe, and putting in with your Seed fine ſmall light mould that is fifted into the ſaid holes, filling them up therewith.</p>
+               <p>And after when you have gathered your Crop, then in wet Seaſons if the ground be wet manure the ſaid Fields with your manuring <hi>Rowlers</hi> well filled with Dung, or other good ſoyle, and your ſaid fields will be extraordinarily Improved, and made fertile.</p>
+            </div>
+            <div n="5" type="chapter">
+               <head>
+                  <hi>CHAP. V.</hi> Another way to improve Barren Land not worth <hi>xij.d.</hi> the Acre.</head>
+               <p>ANother way to Improve any manner of barren Land, is by Digging many holes or ſmall Pits one foot and a half deepe, and two foot ſquare, and then to fill up the ſaid Pits or holes with the beſt Earth or mould that is to be got neere unto the ſaid barren Land, and then at the Seaſon of the yeare that is beſt for Setting and Planting to ſet or plant ſuch ſmall Trees or Plants, as will agree beſt with the nature of the ſoyle there layd, and not too much different from the nature of the ſoyle of the ſaid Climate, and indeed it will be very neceſ<g ref="char:EOLhyphen"/>ſary to obſerve what Earth, or ſoyle will improve beſt the ſaid Barren earth; For as Oake will grow and proſper beſt in Clay grounds, ſo Elmes will grow and proſper beſt in rich Sandie grounds and other Dry moulds, and other ſorts of wood; In o<g ref="char:EOLhyphen"/>ther ſorts of ground, as Willowes in wet grounds, and Aſh, Maple, Beech; and indeed moſt ſorts of Wood will grow in mixed moles and Loamy grounds.</p>
+               <p>Now then it is expedient that ſuch Perſons as will uſe thoſe or the like wayes in Improving of theſe Barren grounds, doe Obſerve the natures of ſuch barren ground as they deſire to improve, as to obſerve whether it be wet Mooriſh grounds, or dry Sandy barren ground, or Chalkie, Gravelly, or Clay, or Loamie ground; for as there be rich Sandy grounds, ſo there
+<pb facs="tcp:57558:6"/>are barren ſandy grounds, and as there be rich Loamie, gravelly and Clay grounds, ſo there be barren loamy, gravelly and Clay grounds. Now if you make your Trenches or little Pits in dry barren Sandy ground, then to fill the ſaid Pits and tren<g ref="char:EOLhyphen"/>ches with the richeſt Clay or loamy Earth you can get, &amp; alſo to manure the ſaid ground with the ſame, and if you make your ſaid trenches and pits in wet or Mooriſh grounds, then to fill both the trenches and pits with the fatteſt Sand, or dryeſt rich mould well Chaulked, or you may put ſome Chalke into the ſaid trenches or pits before the ſaid Sand or Rich dry earth be layd in the ſame, and to manure the ſaid wet ground with the like, ſpreading much Chalke or ſand upon the ſaid Mooriſh, o<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> wet grounds. Now by this kind of Husbandry great profit will ariſe to the Owners of the ſaid barren Land, and alſo to the Common-wealth and Nation; for hereby all ſorts of Timber will become plentifull for all uſes.</p>
+               <p>Theſe holes and Pits may be made as neere together as the Planters ſhall pleaſe, for as the ſaid Trees grow up and ſpread ſome may be Cut downe and taken away to the owners profit and others left to grow and ſpread, and alwaies when they ſhall want ſpace to ſpread and grow then to fell and take away ſome more, leaving others to continue growing untill they ſhall be come to their full growth; Thus may barren ground that is not worth xij.d. the Acre, be made to bring in great profit, and be Improved from generation to generation, and in the end when all or moſt of the Trees be felled or taken away it will become and continue good Arable or Paſture ground for ever, if it <gap reason="illegible" resp="#OXF" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> yearly Manured in its ſeaſon as it ought, and may eaſily be done.</p>
+               <trailer>FINIS.</trailer>
+            </div>
+            <div type="subpart">
+               <p>AT the Houſe of <gap reason="blank" extent="1 word">
+                     <desc> _____ </desc>
+                  </gap> There you may ſee the Exact modell and manner of the improving Inventions, and receive further Inſtructions for the Improving <gap reason="illegible" resp="#OXF" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> any manner of Barren Land if you pleaſe, and alſo be directed <gap reason="illegible" resp="#OXF" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> ſuch Perſons, as will eyther buy or farme any Barren Lands that you ſhall be deſirous to Sell or Let.</p>
+            </div>
+         </div>
+         <div type="part">
+            <pb facs="tcp:57558:6"/>
+            <head>HOW TO ORDER ANY LAND, SO as it may reteyne all the moyſture that falleth thereon: And to Im<g ref="char:EOLhyphen"/>prove it thereby.</head>
+            <p>
+               <seg rend="decorInit">F</seg>Or aſmuch as the fatneſſe of the ſoile is wa<g ref="char:EOLhyphen"/>ſhed away, when in the winter ſeaſon the ground is ſo wet, that every ſhowre is not received, and drunke in by the earth where upon it falleth, but paſſeth away, and carieth with it the Fatneſſe, and Rich<g ref="char:EOLhyphen"/>neſſe of the ſoyle that ſhould remayne vpon the ſuperficies of the earth, whereby barrenneſſe doeth enſue daily, al<g ref="char:EOLhyphen"/>though daily the <hi>Husbandman</hi> doe manure and dung the ſame. Therefore every one that would reteyne the Fat<g ref="char:EOLhyphen"/>neſſe and Richneſſe of their owne ſoyle for their own Land, muſt uſe meanes to reteine that, that would and doth carry away the Richneſſe and Fatnes of their ſoyle from the ſame. And that every man may reſerve the Fatneſſe of his owne ſoyle for his owne Land, it is acceſſary to uſe and practiſe theſe points of Husbandrie hereafter declared. As firſt to mound his Land with bankes in every place where the wa<g ref="char:EOLhyphen"/>ter may have vent, and Current from of the ſame; ſecondly, to turne the vent and Current of all Land-waters into his owne ground, out from the high wayes, waſt-grounds, and Commons belonging to or lying neere his owne Land, and if theſe two ſhall not be found Remedies ſufficient, I ſhall hereafter declare ſome other. I know the latter is practiſed a little by ſome, but it is ſo little that it is to little purpoſe; For what availeth it for a man to let the water in at one
+<pb facs="tcp:57558:7"/>place, and to let it goe out at a thouſand, but every man re<g ref="char:EOLhyphen"/>teyning all the water that falleth upon his owne ground, ſhall in ſhort time finde it very availeable, for if this kinde of husbandrie onely were but uſed halfe the time that it hath beene neglected, men ſhould finde their Lands to bee greatly Improoved by the ſame, the which every one may eaſily doe, and that to their owne great profit and ad<g ref="char:EOLhyphen"/>vantage and to the profit and advantage alſo of their farre Remote neighbours.</p>
+            <p>For if every one doe but conſider how divers grounds hath beene much Improoved by watering, and overflow<g ref="char:EOLhyphen"/>ing the ſame neere unto Rivers, that in former times have beene but little worth, then they cannot deny, but that they alſo in high grounds may improove their Land by water<g ref="char:EOLhyphen"/>ing and overflowing the ſame, and that they may overflow it by ſtopping the vents and Currents of the water that ſhall fall upon the ſame, or when they ſhall bring the land-water vpon the ſame from their owne Corre Feilds, high<g ref="char:EOLhyphen"/>wayes, and other waſt grounds and Commons.</p>
+            <p>Alſo, then will not their farre Remote neighbors, that uſe to bee annoyed with floods, and others that liue in <hi>Fenne</hi> Countries, bee ſo much annoyed with water as commonly they are, nay; if every one did but truely, and duely obſerve and practiſe this kind of Husbandry, they would not be annoyed at all: and therefore it muſt needs bee advantagious and profitable for thoſe that live in <hi>Fen<g ref="char:EOLhyphen"/>ny</hi> Countryes, and others in the vale Countryes that are annoyed with Floods, as well as for thoſe that live upon hilles and high grounds.</p>
+            <p>Now how eaſily it may bee effected, may any one ſoone underſtand, that can but underſtand how eaſily miſcheifes may bee prevented, when they are prevented at the firſt ari<g ref="char:EOLhyphen"/>ſing and beginning before they come to a head, and how
+<pb facs="tcp:57558:7"/>eaſily an Inconvenience may bee helped when every man ſhall put to their helping hands any one may judge. Wee know that the many ſparkes of fire in Towne and Citty, ſo long as they are kept within bounds are ſervice able, and there is no dammage or danger ſuſteyned by them; but if by misfortune or negligence they get out of their bounds what diſaſters doe they cauſe. Even ſo the many drops that doe fall in a Countrey if they ſhould bee kept within bounds in the ſeverall Cloſes and Lordſhips wherein they fall, they would be ſerviceable, and advantagious, which other wayes deſtroy whole Feilds of Corne, breake downe Bridges, drowne Cattle, and ſometime overturne houſes, and worke much other miſcheifes alſo, for we may all very well know, it is never well with <hi>England</hi> when the Corne in the golden vales of <hi>England</hi> is deſtroyed through floods; now as the Husbandman may eaſily reteyne all the water that falleth upon his owne ground for his owne profit, and advantage, in his ſeverall encloſures, ſo may he as eaſily o<g ref="char:EOLhyphen"/>pen a vent for his water at any time if there be cauſe and let it out from one Cloſe, wherein there is no need, or where it may be harmeful, and bring it into another where<g ref="char:EOLhyphen"/>in it may doe good, and where there may bee great need thereof: now if there be any that cannot conceyue how or which way this point of husbandry may be effected with great facility and eaſe: let them but repaire unto the Au<g ref="char:EOLhyphen"/>thor, or unto his Aſſignes; and they will after taking view of their land ſhow how eaſily it may be done.</p>
+            <div type="subpart">
+               <head>How to prepare barraine Land that yeeldeth no profit, for the Improoving of it, and how to make it Fertill.</head>
+               <p>THe firſt thing to be done when you would improove your barrain dry ground, is where it is levell, or where it can be eaſily brought to a levell, to mound it about
+<pb facs="tcp:57558:8"/>in ſquare plots &amp; Cloſes, or other wayes, as it ſhal be found moſt convenient with bankes. In ſuch manner as that you may reteyac, and keepe all the water or moiſture within the bounds thereof that ſhall fall upo<g ref="char:cmbAbbrStroke">̄</g> it, or that may ariſe from Snow, or that may otherwiſe be brought upon the ſame.</p>
+               <p>Thus when it is well bounded, and mounded with bankes may you dung it well, or manure it in what ſort you like beſt, and you ſhall be ſure not to looſe any part of your dung or manure through haſtie and ſudden ſhowers, that tommonly doth waſh away a great part thereof.</p>
+               <p>But when it is dunged well, and well ſoked with moy<g ref="char:EOLhyphen"/>ſture, or when it is in a manner overflowen; then to ma<g ref="char:EOLhyphen"/>nure it with dung or other Fat carth in the Manuring bar<g ref="char:EOLhyphen"/>row will mightily Improove it, for the drawing of the manuring barrow up and downe, and the trampling of the ground when it is ſo moyſt, or overflowen, will increaſe your manure, and dung exceedingly: For no man can be Ignorant, how trampling, Carting, and ſuch like actions in wet weather, and when the ground is wet doth increaſe myre and dirt exceedingly in any place: Yet ſome may obiect, why then are not Foot-pathes, and High-wayes more Fertile then other places, being they are more fre<g ref="char:EOLhyphen"/>quently trampled, and travailed upon then other places are. Vnto whom I anſwere, if highwayes and Footpathes were crampled, and travailed on onely in wet weather, and when they are wet, they would be farre more Richer in ſoyle and more fertile then they are; for as trampling and travailing in wet weather increaſeth ſoyle and Dirt, ſo in dry weather trampling and travailing wareth and waſteth away both the Dirt and ſoyle, and cauſeth Barrenneſſe and yet how many wayes and pathes alſo if they ſhould not be yearly ſupplyed with gravell, and ſuch other batten,
+<pb facs="tcp:57558:8"/>durable materials would grow Impaſſable through myre &amp; ſoyle. Alſo although trampling and trauayling is good to improove ground, yet continuall trampling, and travailing is hurtfull to ground, becauſe it hindereth the growth of the graſſe, and yet in Heathes, and Commons, where are pathes, and tracts that are but ſeldome trampled, is no heath, yet is there graſſe, and more would there bee if they were not overlayd with ſheepe, and Cattle, and trampled more in dry weather, then in wet that keepes it under, and hin<g ref="char:EOLhyphen"/>ders the growth thereof.</p>
+               <p>Againe, to manure ground that is dunged when it is wet, with the Manuring barrow trimmed alſo with dung, or o<g ref="char:EOLhyphen"/>ther Fat earth, or ſoyle, will increaſe other manner of ſoyle and Dirt, then bare trampling or travailing will, and alſo it will improove it more. If there be any that thinke drow<g ref="char:EOLhyphen"/>ning and overflowing of ground will not improoue it, be<g ref="char:EOLhyphen"/>cauſe in ſome places they are faine to cut Furrowes and trenches to draine the ſame, let them inquire of thoſe who have uſed the overflowing of ground that lyeth by Rivers, and have improoved the ſame, and uſe it yearly. Indeed ar<g ref="char:EOLhyphen"/>rable ground when it is ſowen ſhould haue Furrowes, and trenches to draine the ſame, becauſe too much moyſture is hurtfull to moſt kinde of graine; and therefore they ſhould make their Furrowes ſo, as that the Raine that falleth upon their Cornefields, may have vent and Current into their paſture ground and lay Feilds, and then they may there en<g ref="char:EOLhyphen"/>viron it ſo with a banke, as that it may not any wayes breake forth of the ſame. Thus therefore, if it be one, two, three, foure, or fiue Acres, or more that you would im<g ref="char:EOLhyphen"/>prooue, thus you may order and prepare it, and improove it, and unto any who willeth or deſireth to learne more, I will yet ſhew him divers more excellent wayes.</p>
+            </div>
+            <div type="subpart">
+               <pb facs="tcp:57558:9"/>
+               <head>The ſewer all benefits that will ariſe from Mounding of ground with bankes and ſtopping of Currents of Land waters.</head>
+               <p>
+                  <seg rend="decorInit">I</seg>T will mittigate the great Floods, If it cau<g ref="char:EOLhyphen"/>eth them not to ceaſe altogether, that ſo annoy<g ref="char:EOLhyphen"/>eth the Fennie Countryes and other places. It will improove high grounds, and cauſe plen<g ref="char:EOLhyphen"/>ty, and prevent dearth and ſcarcity:</p>
+               <p>It will Increaſe the old Springs, and make new ſprings to breake forth, and ariſe in divers places, and that eſpeci<g ref="char:EOLhyphen"/>ally, If having more Land-water in any place then can be reteyned vpon the ſame, they make deepe pits or wells for the ſame to Run into; or if they turne the Current of their water vnto their dry and thirſtie Lands, that will receive and drinke in all.</p>
+               <p>Hereby alſo, they may ſtore themſelves with water in the dry and upland Countryes againſt the ſummer times and dry ſeaſons, where they haue any gravelly, or Clay Ground.</p>
+            </div>
+            <div type="subpart">
+               <head>Arguments ſhewing whither this point of Husbandry bee poſſible and profitable or no.</head>
+               <p>
+                  <seg rend="decorInit">B</seg>Ecauſe a man cannot ſpeake of any new wayes or points in Husbandry, but divers well experienced men, doe preſetly judge the ſame to be Impoſſible, or elſe unpro<g ref="char:EOLhyphen"/>fitable. I will heere breifly diſcuſſe theſe two Queſtions: that ſo every one that will, may conceive how poſſible and profitable they may bee: Firſt, to ſhew the poſſibility thereof, let any one place a leaking veſſell in the raine, where no ſpoutes may runne
+<pb facs="tcp:57558:9"/>into the ſame, and ſee if it will ever be filled with the raine that ſhall deſcend therein; For all ſorts of ground will not hold water, and may bee compared to leeking veſſels, ex<g ref="char:EOLhyphen"/>cept onely the gravelly, and the Clay ground; ſo that if men doe but banke their ground a little to keepe the water that falleth thereon upon the ſame, It will not long abide, if it ſhould deſce<g ref="char:cmbAbbrStroke">̄</g>d never ſo faſt vnleſſe it be in gravelly and Clay grounds. And here I know many will ſay they <gap reason="illegible" resp="#OXF" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> not practiſe this point of husbandry without da<gap reason="illegible" resp="#OXF" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>ifying themſelves, becauſe of neceſſity where there is no dry thir<g ref="char:EOLhyphen"/>ſty Land neere, and abundance of Clay or gravelly ground, altogether in one place muſt drowno ſome of their owne ground if they ſhould ſtoppe the vent and Current of the water, and reteyne all the water that falleth there on upon the ſame, unto which I anſwere, although men in ſome pla<g ref="char:EOLhyphen"/>ces ſhould drowne 3 or foure Acres in an hundred Acres, yet they cannot be damnified thereby, becauſe thoſe who know what a pond of an Acre, or more is worth, cannot be ignorant that 3, or 4, Acres of Land thus drowned in ſome places, may yeeld more commodity then ten Acres of dry Land that is worth 30. ſhillings the Acre.</p>
+               <p>Againe for the generall, better is it to have ſome hun<g ref="char:EOLhyphen"/>dreds of Acres drowned, and made Fiſh-pooles, then to have many thouſands of Acres lye barraine, and unfruit<g ref="char:EOLhyphen"/>full.</p>
+               <p>And that ſuch places will be as ſtorehowſes for water a<g ref="char:EOLhyphen"/>gainſt the ſummer times and dry ſeaſons, no man can de<g ref="char:EOLhyphen"/>ny, for whereas <hi>I</hi> have ſpoke<g ref="char:cmbAbbrStroke">̄</g> of watering of ground in dry ſeaſons where water is to be had, and ſome have asked how they ſhould provide water, here is one way, whereby they may provide water in hilly Countryes, and high grounds farre off from Rivers; And although it may be impoſſible for any one man to reteyne the water within his owne
+<pb facs="tcp:57558:10"/>ground that falleth in many mens Lands; yet is it poſſible for every one to reteyne the water that ſhall fall within his awne ground. And therefore not Impoſſible.</p>
+            </div>
+            <div type="subpart">
+               <head>A breife Anſwere vnto what may be objected: or hath beene objected.</head>
+               <p>
+                  <seg rend="decorInit">I</seg> Know many there bee, that will ſay they know many more excellent points of his bandry, then yet hath beene diſcovered by mee, and I muſt confeſſe, I know many particular Husbandmen that doe conceive, and underſtand thoſe ſecrets in husban<g ref="char:EOLhyphen"/>dry, that generally is not conceived, nor underſtood by many that uſe husbandry, the which I have forborne to treat of, becauſe I would not ſeeme to diſcover, what I know to bee underſtood, and practized by any one alrea<g ref="char:EOLhyphen"/>dy, although I am not ignorant of the ſame; and that di<g ref="char:EOLhyphen"/>vers husbandmen and others, doe know divers more excel<g ref="char:EOLhyphen"/>lent poynts then hath been diſcovered, I will beleeve. For I my ſelfe know many more excellent poytits then I have yet diſcovered, and yet I know and beleeve that divers that ſhalfucceed unto this generation ſhall know, &amp; underſtand, and diſcover more, then ſhal be vnderſtood, and diſcovered by any one in this generation. Now to avoid further Con<g ref="char:EOLhyphen"/>troverſies; If there be any that ſhall thinke, or object, that any one point herein diſcovered, is vnpoſſible, unprofi<g ref="char:EOLhyphen"/>table, or not worth the practizing, let them but help the Author vnto any barraine Land and they ſhall ſoone ſee the contrary prooved, for their ſatisfaction.</p>
+               <p>And whereas ſome I know will be apt to object, That the water lying upon the ground in the winter ſeaſon, will breed Ruſhes, and Sedges; I anſwer, the Manuring barrow (if it be trimmed and uſed as it may bee) will keepe the ground from bearing of Ruſhes and Sedges; and alſo it will kill both Ruſhes and Sedges in any ground that is na<g ref="char:EOLhyphen"/>turally inclined thereunto.</p>
+            </div>
+         </div>
+         <div type="part">
+            <pb n="1" facs="tcp:57558:10"/>
+            <head>AN EASIE AND PROFI<g ref="char:EOLhyphen"/>TABLE ORDER IN TIL<g ref="char:EOLhyphen"/>ling of Ground to improve it, and make it Fertile.</head>
+            <p>
+               <seg rend="decorInit">B</seg>Ecauſe all things in this World are ſubject to caſualtie, and <hi>Husbandry</hi> and <hi>Tillage</hi> although it be a principall ſtay, and ſupporter both in the Church and Common-wealth, yet doth it not alwayes hit according to the <hi>Husband<g ref="char:EOLhyphen"/>mans</hi> expectation, but oftentimes doth faile, unto his great loſſe, and the miſeries of others: I ſhall here diſcover ſome certaine points in <hi>Husbandrie,</hi> where<g ref="char:EOLhyphen"/>by the <hi>Husbandman</hi> may eaſily ſuccour his <hi>Corn</hi> after it is ſown, and uſe ſuch meanes and wayes that he may preſerve and foſter it, if need ſo require.</p>
+            <p>Now the moſt certaine way in <hi>Tillage,</hi> not to looſe both your ſeed and labor (as many often have done in dry ſeaſons, and are ſtill like to doe, if they hold on in their accuſtomed <hi>Tillage</hi>) whe the ſeaſon is like to be dry, is to <hi>Till</hi> your <hi>Ground</hi> by <hi>Lands,</hi> leaving alwayes a ſpace untilled betweene every <hi>Land,</hi> that ſo you may have places whereby you may come to moyſten, and ſuccour your <hi>Seed</hi> untill it be well come forth and growne, if the ſeaſon be dry, and you perceive it doth not come forth
+<pb n="2" facs="tcp:57558:11"/>kindely as you would have it, this is a point of <hi>Husbandrie,</hi> that will be extraordinarie uſefull where any <hi>Barraine ground</hi> lyeth neare unto any Rivers, where water may plentifully be had, and it will not be unuſefull where good ground is, although there be not ſuch plentie of water: but ſome <hi>Husbandmen</hi> it may be will be apt to thinke, that ſo much ground that yeare is loſt that is left untill'd in a Field that is tilled; but it is eaſily anſwe<g ref="char:EOLhyphen"/>red, that better a little ground be loſt, then a greater quantitie of ground, and your coſt and <hi>Seed</hi> alſo be loſt, as it may be ſayd well to be, if it doth not bring forth a crop propertionable un<g ref="char:EOLhyphen"/>to the place and charge beſtowed thereon, but to ſpeake the truth, the ground is not loſt that is left untilled, becauſe of it ſelfe it will bring forth ſome benefit: although it be not ſowne, and that, that is not ſowne the one yeare doth gather heart, and will be improved againſt the next yeare, for if you diligently ſuccour your ſeed-plots with water, and ſome ſuch other means as you ſhall ſee needfull, the <hi>Invention</hi> that you may water your tilled ground with, will alſo at the ſame time water your un<g ref="char:EOLhyphen"/>tilled ſpaces, ſo as that, what with the watering, and with the trampling, your untilled ſpaces will be well improved there<g ref="char:EOLhyphen"/>by. For watering, and trampling of ground when it is moiſt, will improve any ground, without any other meanes, neyther may any <hi>Husbandman</hi> ſow one jot the leſſe, for what quantitie of ground he leaveth unſownein one Field, he may ſow for it the ſame quantity in another place, and in the ſame manner, if he thinke well, and in thus ordering, and ſowing of his ground he ſhall finde more certaine profit then any other way.</p>
+            <p>The breadth of the <hi>Lands</hi> that in this manner are to be tilled, may be 6, 7, or 8 foot in breadth, and the ſpace betweene each land that you are to leave untilled, may be a foot and a halfe, or more in breadth if you ſee cauſe: thus may you without doing harme to your Corne at any time as you ſee cauſe, both nou<g ref="char:EOLhyphen"/>riſh and cheriſh it up, from the firſt ſowing thereof untill it be
+<pb n="3" facs="tcp:57558:11"/>paſt all danger that may befall it through drought, for when it is ſprung up to ſome prettie growth, the blades will defend the rootes thereof ſo from the heat of the Sunne in dry ſeaſons, that it will not take any extraordinarie harme thereby:</p>
+            <p>Alſo this is to be noted, that thoſe ſpaces that you leave un<g ref="char:EOLhyphen"/>plowed one yeare, if you ſow the ſame <hi>Field</hi> the next yeare, you are to plow up, &amp; leave now ſome part of the lands (that the laſt yere were tilled and ſown) for to be the ſpaces between the Lands that you mean now to till &amp; ſow: and ſo every yeare you may reſt ſome part of your <hi>Field,</hi> although every yeare you ſow the greater part, and reape good crops of Corne from the ſame.</p>
+            <p>Now to give you ſome taſte whether this point of <hi>Husban<g ref="char:EOLhyphen"/>drie</hi> will be advantagious or no, let every <hi>Husbandman</hi> firſt caſt what an Acre of <hi>Corne</hi> is worth ſtanding upon the Ground, and then how many Acres thereof may be watered in a day; unto the firſt queſtion I can anſwere, I have knowne an Acre of Wheat to have been worth ten pounds upon the ground, when Corne hath been at an high price, but I will ſuppoſe it to bee worth now but 40 ſhillings, or 3 pou<g ref="char:cmbAbbrStroke">̄</g>d the Acre: Vnto the ſecond I will anſwere, where water may eaſily be had, a couple of men may well and eaſily water about ſome 30 Acres a day, when the dayes be long, and if it be watered well but every other day, and the ground be any thing good, or well manured, it will come forward; and by this account, two men may cheriſh 60 Acres and bring it forward, watering the one halfe well one day, and the other halfe another day; and 60 Acres according unto the loweſt rate amounteth unto 120 pound, &amp; at 3 pound the Acre, it will amount unto 180 pound: and how much ſoe<g ref="char:EOLhyphen"/>ver an Acre of any Corne can be worth, an Acre of Corne well tilled and thus caeriſhed, will come to be worth much more then that which is but ſlightly tilled, and that never after is hel<g ref="char:EOLhyphen"/>ped or cheriſhed any wayes. Now if a Couple with two or three Monthes labor (for I ſuppoſe in two or three Monthes
+<pb n="4" facs="tcp:57558:12"/>the <hi>Corne</hi> will be indifferently able to deſend it ſelfe againſt the heat of the <hi>Sunne,</hi> and will be come ſo forward that it will not need any further watering) can thus bring ſuch profit out from the earth, I ſuppoſe it will recompence their labour, and be an incouragement unto any to proceed with pleaſure and delight in a labour ſo advantagious for themſelves, and ſo much concer<g ref="char:EOLhyphen"/>ning the publike good, neither will this labour fall upon the <hi>Husbandman</hi> at an unſeaſonable time. For alwayes after <hi>Seed<g ref="char:EOLhyphen"/>time</hi> hath the <hi>Husbandman</hi> moſt leiſure, &amp; after <hi>Seed-time</hi> then i<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap> the moſt ſeaſonable time thus to cheriſh your <hi>Corn,</hi> &amp; it is not to be doubted, but that oftentimes there will fall ſome ſhowers al<g ref="char:EOLhyphen"/>ſo, that will both helpe and eaſe the labor of the Waterers, in the drieſt time and ſeaſon of the yeare: For I for my part am perſwaded that in mens honeſt and good endeavours there is a ſilent Rethorick to perſwade with GOD, and yet I would not have any man to be ſilent in a time of neceſſitie; but I leave that for Divines to teach and perſwade, and ſtirre up men unto.</p>
+            <p>Now ſuch <hi>Husbandmen</hi> that have not a manuring <hi>Plow</hi> o<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 
+               <hi>Seed-barrow</hi> ready, may till their Land in this order after the old accuſtomed manner, if the <hi>Land</hi> be not extraordinarie bar<g ref="char:EOLhyphen"/>ren. For if it be extraordinarie barren, then they muſt uſe the <hi>Manuring-Plow,</hi> or <hi>Manuring-Wagen</hi> in <hi>Tilling</hi> and <hi>Sowing</hi> the ſame, or elſe perhaps they may looſe much of their Crop, or a leaſt never improove it ſo orderly by ſowing the ſame: Nei<g ref="char:EOLhyphen"/>ther is there a better, nor more eaſie and ſpeedy way to improve any arable ground, or to make any <hi>barren Land</hi> to become good arable Land then by thus ordering, and ſowing of the ſame, <gap reason="illegible" resp="#OXF" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> any one may quickly finde that ſhall but once make tryall o<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap> ſome little parcell of <hi>barren-ground</hi> in any place.</p>
+            <p>Now if there be any that can helpe the Author unto; and reaſonable quantitie of <hi>barren ground,</hi> he will further diſcover unto them how they ſhall improve both eaſily and ſpeedily and <hi>barren ground,</hi> and make it to become good <hi>Medow ground,</hi> and
+<pb n="5" facs="tcp:57558:12" rendition="simple:additions"/>be worth ſo much yearly, as any <hi>Medow ground</hi> is, or can be any place neare adjacent thereunto.</p>
+            <div type="subpart">
+               <head>How to ſhrowd your Graſſe.</head>
+               <p>IT were one excellent point in <hi>Husbandrie</hi> to ſet and plant, both Oakes and Elmes, all along in a row by the hedges on your Field ſides, excepting thoſe ſides that joyne upon ſome common Roads and Highwayes, that require the Winde and Sunne to drie them, and make them paſſable, for hereby might you ſhelter the graſſe a great part of the long Summer <gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ayes, from the ſcortching heat of the Sunne, and in the Winter <gap reason="illegible" resp="#OXF" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>om the nipping blaſts of the cold freezing Winde, and alſo <gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>rovide fuell for your fire and other uſes, and food for your wine, beſides many other commodities that would ariſe from <gap reason="illegible" resp="#OXF" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> ſame, for every <hi>Spring</hi> your graſſe would be much more <gap reason="illegible" resp="#OXF" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>rwarder than it is, and the leaves of the Trees would alſo help <gap reason="illegible" resp="#OXF" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> fatten your ground; and it were to be wiſhed that there were me <hi>Act</hi> or <hi>Statute</hi> to force this point of <hi>Husbandrie,</hi> that ſo <gap reason="illegible" resp="#OXF" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>e Walles of the Kingdome, and the Bridges whereby ſuch <gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>oopes of our Fore-fathers were wont to paſſe over the Seas <gap reason="illegible" resp="#OXF" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> chaſtiſe their inſolent and daring enemies; might be effectu<g ref="char:EOLhyphen"/>ally maintained; and that we might thereby become feared of <gap reason="illegible" resp="#OXF" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>oſe enemies, that now thinke themſelves out of our danger. Surely the reaſon why this <hi>Husbandrie</hi> is not uſed, is becauſe <gap reason="illegible" resp="#OXF" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>e profit thereof would not preſently ariſe to our ſelves; but <gap reason="illegible" resp="#OXF" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ery one ought to know that no man is born only for himſelf, <gap reason="illegible" resp="#OXF" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>d that Fathers are to provide for their Children; therefore we would leave our Countrie to our Children, and have our childrens Children injoy the ſame, let us then providently <gap reason="illegible" resp="#OXF" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>eaſt, to provide ſuch materials for our Grand-children, that <gap reason="illegible" resp="#OXF" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>y may have wherewithall to encounter with their enemies <gap reason="illegible" resp="#OXF" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>oad, rather then to ſuffer them to be forced to combate with <gap reason="illegible" resp="#OXF" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> here at home; ſurely if any enemy of ours, had any kinde
+<pb n="6" facs="tcp:57558:13" rendition="simple:additions"/>of Timber ſo tough and durable as our <hi>Engliſh Oake,</hi> they wou<gap reason="illegible" resp="#OXF" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> not neglect ſo great a benefit: O then unleſſe we would h<gap reason="illegible" resp="#OXF" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap> our Enemies to ſucceed us in our inheritances let us make uſe <gap reason="illegible" resp="#OXF" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> the benefits and priviledges that our good God hath beſtowe upon us above other Nations.</p>
+            </div>
+            <div type="subpart">
+               <head>How to gather Wheate, Rye and Barley in late Harveſts, and Wet Seaſons.</head>
+               <p>IN <hi>Harveſt-time</hi> when the Corne is full ripe and like to ſhe and the ſeaſon ſo wet that it cannot be houſed ſo drie as ſhould be, ought this point of <hi>Husbandrie</hi> to be practiſed, rather than that the <hi>Corne</hi> ſhould be ſpoyl'd or loſt; firſt therefore ſuch ſeaſons may the <hi>Husbandman</hi> reape or cut downe his <hi>C<gap reason="illegible" resp="#OXF" extent="4 letters">
+                        <desc>••••</desc>
+                     </gap>
+                  </hi> according to the Country cuſtome wherein he lives, and th<gap reason="illegible" resp="#OXF" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> afterward whenſoever it holds up; or ſooner if there be cau<gap reason="illegible" resp="#OXF" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> let his Harveſt people (having implements accordingly) app<gap reason="illegible" resp="#OXF" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> themſelves to the cropping, clipping, or cutting off the Eares the Corne by handfuls at a time, little Children may gather <gap reason="illegible" resp="#OXF" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> Corne into handfuls, and give them to the <hi>Harveſt-man,</hi> whe<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> he cuts them off, ſhould put them into Sackes, and then ſho<gap reason="illegible" resp="#OXF" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap> they be carried home, and ſpread upon floores in Lofts, and all other places where they may lye and dry, and being dry t<gap reason="illegible" resp="#OXF" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap> ſhould they be removed &amp; other brought and ſhould be ſpr<gap reason="illegible" resp="#OXF" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> in their places, otherwiſe whenſoever the Weather hol<gap reason="illegible" resp="#OXF" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> little faire, there may one be aſſigned to follow every Rea<gap reason="illegible" resp="#OXF" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> that may clip off the eares as faſt as they ſhall reape it, into the flaskets, and ſo ſacke them up, and carry them home as fa<gap reason="illegible" resp="#OXF" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> it is reaped. Thus may men ſoone gather in their Wheat, th<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Rye, and their Barley, although there ſhould be much graſſe, weeds among the ſtraw, that doth require much time to wit<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> and dry before it can be got in. Now when they have go<gap reason="illegible" resp="#OXF" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> the eares of their Corne, they may let the ſtraw lye and d<gap reason="illegible" resp="#OXF" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> while without ſuſtaining any great hurt, and after they may ther it in and ſtack it up at leiſure, when the ſeaſon is more d<gap reason="illegible" resp="#OXF" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>
+               </p>
+               <trailer>FINIS.</trailer>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>
